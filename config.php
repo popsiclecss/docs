@@ -5,8 +5,8 @@ use Illuminate\Support\Str;
 return [
     'baseUrl' => '',
     'production' => false,
-    'siteName' => 'Docs Starter Template',
-    'siteDescription' => 'Beautiful docs powered by Jigsaw',
+    'siteName' => 'Popsicle',
+    'siteDescription' => 'Popsicle is an awesome UI Kit built according to the Atlassian Design Guidelines.',
 
     // Algolia DocSearch credentials
     'docsearchApiKey' => '',
